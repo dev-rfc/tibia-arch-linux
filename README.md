@@ -1,6 +1,6 @@
-# Tibia (PKGBUILD)
+# Tibia for Arch Linux (PKGBUILD)
 
-This is a PKGBUILD for installing Tibia on Arch Linux with the latest QT6 update. Follow the instructions below to set it up, including steps to fix potential font rendering issues.
+This is a PKGBUILD for installing Tibia on Arch Linux with the latest QT6 and Wayland update. Follow the instructions below to set it up, including steps to fix potential font rendering issues.
 
 ## Installation
 
