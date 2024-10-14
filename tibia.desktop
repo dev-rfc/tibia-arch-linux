@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Tibia
+GenericName=MMORPG Game
+Comment=Fast-paced free MMORPG game
+Exec=/opt/tibia/Tibia
+Icon=/usr/share/pixmaps/tibia.png
+Terminal=false
+Categories=Game;AdventureGame;RolePlaying;
+StartupNotify=true
+StartupWMClass=tibia
+Keywords=MMORPG;Game;Adventure;
